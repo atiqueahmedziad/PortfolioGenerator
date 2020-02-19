@@ -1,15 +1,20 @@
 ﻿<Properties StartupConfiguration="{8734E161-D7FB-480A-9725-4F1E39B07268}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PortfolioGenerator/ClientApp/src/App.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PortfolioGenerator/ClientApp/package-lock.json">
     <Files>
       <File FileName="PortfolioGenerator/ClientApp/src/App.js" Line="12" Column="1" />
+      <File FileName="PortfolioGenerator/ClientApp/package.json" Line="1" Column="1" />
+      <File FileName="PortfolioGenerator/ClientApp/package-lock.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PortfolioGenerator" expanded="True">
-            <Node name="PortfolioGenerator" expanded="True" selected="True">
+            <Node name="PortfolioGenerator" expanded="True">
               <Node name="ClientApp" expanded="True">
                 <Node name="src" expanded="True" />
+                <Node name="package.json" expanded="True">
+                  <Node name="package-lock.json" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
